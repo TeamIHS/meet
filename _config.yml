@@ -10,8 +10,8 @@ url: "https://meet.waynehfut.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: waynehfut
-#hide_share_buttons: true
-theme_color: '#2596be'
+hide_share_buttons: true
+theme_color: "#2596be"
 #fixed_navbar: top
 
 paginate: 5
@@ -24,7 +24,6 @@ disqus:
   shortname: waynehfut
   # shortname: csrhymes
 
-
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
@@ -32,7 +31,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -51,14 +50,12 @@ sass:
 #google_analytics: UA-code-here
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       show_sidebar: true
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -73,7 +70,7 @@ highlighter: rouge
 footer_menu: footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
