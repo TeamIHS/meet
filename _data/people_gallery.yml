@@ -10,9 +10,9 @@
       alt: Hao Wang
       ratio: is-128x128
       description: |-
-        #### [Dr. Hao Wang](https://www.waynehfut.com/)
+        #### [Dr. Hao Wang](https://www.drhaowang.com/)
         Group Convener.
-        
+
 - title: Current Member
   images:
     - link: https://avatars.githubusercontent.com/ksz-creat
@@ -39,49 +39,74 @@
       description: |-
         #### [Yuxuan Yang](https://github.com/trigger26)
         PhD candidate, 2021~
-    - link: https://avatars.githubusercontent.com/syypretend
-      alt: Yiyang Su
-      ratio: is-128x128
-      description: |-
-        #### [Yiyang Su](https://github.com/syypretend)
-        Postgraduates, 2021~
-    - link: https://avatars.githubusercontent.com/Li0316
-      alt: Shihui Li
-      ratio: is-128x128
-      description: |-
-        #### [Shihui Li](https://github.com/Li0316)
-        Postgraduates, 2021~
     - link: https://avatars.githubusercontent.com/Joy3369
       alt: Yue Wang
       ratio: is-128x128
       description: |-
         #### [Yue Wang](https://github.com/Joy3369)
-        Postgraduates, 2022~
+        PhD candidate, 2022~
+    - link: https://avatars.githubusercontent.com/jomainqaq
+      alt: Mingyuan Liu
+      ratio: is-128x128
+      description: |-
+        #### [Mingyuan Liu](https://github.com/jomainqaq)
+        PhD candidate, 2022~
     - link: https://avatars.githubusercontent.com/Graves-2077
       alt: Yifan Wang
       ratio: is-128x128
       description: |-
         #### [Yifan Wang](https://github.com/Graves-2077)
         Postgraduates, 2022~
-    - link: https://avatars.githubusercontent.com/HaitaoCui123
-      alt: Haitao Cui
-      ratio: is-128x128
-      description: |-
-        #### [Haitao Cui](https://github.com/HaitaoCui123)
     - link: https://avatars.githubusercontent.com/haocongcong
       alt: Congying Hao
       ratio: is-128x128
       description: |-
         #### [Congying Hao](https://github.com/haocongcong)
-    - link: https://avatars.githubusercontent.com/bahhh-dot
-      alt: Yi Cao
+    - link: https://avatars.githubusercontent.com/Teanna0221
+      alt: Wen Chen
       ratio: is-128x128
       description: |-
-        #### [Yi Cao](https://github.com/bahhh-dot)
-        
-
-  
-
+        #### [Wen Chen](https://github.com/Teanna0221)
+    - link: https://avatars.githubusercontent.com/Zhang-Yutao
+      alt: Yutao Zhang
+      ratio: is-128x128
+      description: |-
+        #### [Yutao Zhang](https://github.com/Zhang-Yutao)
+    - link: https://via.placeholder.com/128x128
+      alt: Mingming Zhang
+      ratio: is-128x128
+      description: |-
+        #### [Mingming Zhang](https://github.com/)
+    - link: https://via.placeholder.com/128x128
+      alt: Yefeng Wang
+      ratio: is-128x128
+      description: |-
+        #### [Yefeng Wang](https://github.com/)
+    - link: https://via.placeholder.com/128x128
+      alt: Xinke Li
+      ratio: is-128x128
+      description: |-
+        #### [Xinke Li](https://github.com/)
+    - link: https://via.placeholder.com/128x128
+      alt: Rui Xu
+      ratio: is-128x128
+      description: |-
+        #### [Rui Xu](https://github.com/)
+    - link: https://via.placeholder.com/128x128
+      alt: Zhihao Yang
+      ratio: is-128x128
+      description: |-
+        #### [Zhihao Yang](https://github.com/)
+    - link: https://via.placeholder.com/128x128
+      alt: Jinge Liu
+      ratio: is-128x128
+      description: |-
+        #### [Jinge Liu](https://github.com/)
+    - link: https://avatars.githubusercontent.com/oukaitou539
+      alt: Dexin Liu
+      ratio: is-128x128
+      description: |-
+        #### [Dexin Liu](https://github.com/oukaitou539)
 - title: Alumni
   images:
     - link: https://avatars.githubusercontent.com/qyhfut
@@ -126,6 +151,18 @@
       description: |-
         #### [Mengran Li](https://github.com/799380513) 
         MBA 2022~2023
+    - link: https://avatars.githubusercontent.com/syypretend
+      alt: Yiyang Su
+      ratio: is-128x128
+      description: |-
+        #### [Yiyang Su](https://github.com/syypretend)
+        Postgraduates, 2021~2023
+    - link: https://avatars.githubusercontent.com/Li0316
+      alt: Shihui Li
+      ratio: is-128x128
+      description: |-
+        #### [Shihui Li](https://github.com/Li0316)
+        Postgraduates, 2021~2023
 
 - title: Visitor
   images:
@@ -134,10 +171,15 @@
       ratio: is-128x128
       description: |-
         #### Xiaojian Huang
-        2020.12-2021.06     
+        2020.12-2021.06
     - link: https://avatars.githubusercontent.com/Xueyan-Li
       alt: Xueyan Li
       ratio: is-128x128
       description: |-
         #### Xueyan Li 
         2021.09~2022.05
+    - link: https://avatars.githubusercontent.com/bahhh-dot
+      alt: Yi Cao
+      ratio: is-128x128
+      description: |-
+        #### [Yi Cao](https://github.com/bahhh-dot)

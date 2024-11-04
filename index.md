@@ -20,29 +20,16 @@ show_sidebar: false
 </head>
 <!-- end of the addtional script -->
 
-Welcome to the subgroup meeting page of the team IHS which co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm). This site will collect some documents from our subgroup meeting, usually update every Thursday.
+Welcome to the subgroup meeting page of the team IHS which is co-advising by [Prof. Ding](http://faculty.hfut.edu.cn/~uUFn2m/zh_CN/index.htm) and [Dr. Wang](http://www.drhaowang.com). This site will archive some records for our team and collect some documents from our group meeting, usually updated every Friday.
+
+Some useful resources are archived in the post or the archive events, please check the related links.
 
 ## Upcoming Events
 
-Yiyang Su and Shihui Li will share theirs research progress in this week.
+Yet another new year.
 
 ## Scheduled Events
 
 <!-- - Date, Title, Source. -->
-- 11/09/2023, Data-Uncertainty Guided Multi-Phase Learning for semi-Supervised Object Detection, by Yutao Zhang, [attachments](assets/slides/2023-11-09-Data-Uncertainty-Guided-Multi-Phase-Learning-for-Semi-Supervised-Object-Detection.pdf).
-- 07/10/2023, The SlR, meat-ethnography and E-CARGO models are introduced, and future work is discussed in conjunction with existing methods, by Haitao Cui, [attachments](assets/slides/2023-07-10-E-CARGO-model-and-future-work-discussion.pdf). Perceived Effectiveness and Perceived Helpfulness(this article) Answers that match the context and disease acuteness have greater perceived helpfulness to the patient, by Congying Hao, [attachments](assets/slides/2023-07-10-A-Content-Context-Congruence-Perspective-Information-gap.pdf).
-- 06/19/2023, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf).
-
-## Group News
-
-- 06/21/2022, Congratulations to our group member Yan Qiu on successfully defending her dissertation!
-- 06/22/2022, Three provincial standard proposals has been approved by the anhui provincial bureau of market supervision!
-- 05/23/2022, Congratulations to our group member Caiyun Zhang on successfully defending her dissertation!
-
-<details>
-  <summary>IMG</summary>
-  <img src="img/meet_in_june_1st.jpeg" />
-</details>
-
-- 10/10/2021, Welcome Yifan Wang and Yue Wang join our team!
-- 10/01/2021, Congratulations to our group member Yuxuan Yang won the 3rd Prize (Team name: HFUT-MedIA) in Surgical Action Triplet Recognition 2021 Challenge! [News](https://cholectriplet2021.grand-challenge.org/), [Leadboard](https://cholectriplet2021.grand-challenge.org/results/).
+<!-- 例如： -->
+<!-- -   06/19/2023, Introduction to Deep Q-networks and its enhanced algorithms, by Yue Wang, [attachments](assets/slides/2023-06-19-DQN-Algorithm.pdf). -->
