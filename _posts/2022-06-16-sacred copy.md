@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 合肥工业大学管理学院智慧医疗健康管理团队招聘科研助理
+title: 招聘科研助理
 description: 合肥工业大学管理学院智慧医疗健康管理团队招聘科研助理
 author: Hao Wang
 date: 2024-11-04 22:15:00
